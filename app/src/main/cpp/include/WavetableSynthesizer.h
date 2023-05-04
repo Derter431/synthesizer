@@ -8,7 +8,7 @@ namespace wavetablesynthesizer {
     class WavetableOscillator;
     class AudioPlayer;
 
-    constexpr auto sampleRate = 48000;
+    constexpr auto sampleRate = 96000;
 
     class WavetableSynthesizer {
     public:
